@@ -18,14 +18,14 @@ List of all available commands:
 
 ### # add a task
   - [add] ["Task Description"]
-# update a task
+### # update a task
   - [Update] [id] ["Task Description"]
-# delete a task
+### # delete a task
   - [delete] [id]
-# mark as done or in progress  
+### # mark as done or in progress  
   - [mark-done] [id]  
   - [mark-in-progress] [id]
-# list tasks
+### # list tasks
   - [list]  
   - [list-done]  
   - [list-in-progress]  
