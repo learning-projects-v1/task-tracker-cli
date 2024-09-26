@@ -16,7 +16,7 @@ go to task-tracker-cli/TaskTracker. You can use cd task-tracker-cli/TaskTracker
    You can write 'help' to know available commands.
 List of all available commands:
 
-# add a task
+### # add a task
   - [add] ["Task Description"]
 # update a task
   - [Update] [id] ["Task Description"]
