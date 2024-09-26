@@ -1,0 +1,15 @@
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\bin\Debug\net8.0\TaskTrackerConsoleApp.exe
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\bin\Debug\net8.0\TaskTrackerConsoleApp.deps.json
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\bin\Debug\net8.0\TaskTrackerConsoleApp.runtimeconfig.json
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\bin\Debug\net8.0\TaskTrackerConsoleApp.dll
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\bin\Debug\net8.0\TaskTrackerConsoleApp.pdb
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\TaskTrackerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\TaskTrackerConsoleApp.AssemblyInfoInputs.cache
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\TaskTrackerConsoleApp.AssemblyInfo.cs
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\TaskTrackerConsoleApp.csproj.CoreCompileInputs.cache
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\TaskTrackerConsoleApp.sourcelink.json
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\TaskTrackerConsoleApp.dll
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\refint\TaskTrackerConsoleApp.dll
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\TaskTrackerConsoleApp.pdb
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\TaskTrackerConsoleApp.genruntimeconfig.cache
+D:\Learning\MyCodes\Projects\task-tracker-cli\TaskTracker\ConsoleApp1\obj\Debug\net8.0\ref\TaskTrackerConsoleApp.dll
